@@ -1,0 +1,3 @@
+C:/Users/Husnu/OneDrive/reversed/cmake-build-debug/CMakeFiles/reversed.dir
+C:/Users/Husnu/OneDrive/reversed/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Husnu/OneDrive/reversed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
